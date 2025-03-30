@@ -58,7 +58,7 @@ gamma.shape(fit1.model)
 # com_rep = 261.45 * 2.2254546 = 581.8451, 540 g.l.
 # 1 - pchisq(581.8451 ,540)
 
-
-
+# o modelo para os clientes que possuem representação jurídica não é adequado, utilizar outra distribuição, ou outra função de ligação.
+# Isso pode ser visto pelo gráfico Normal de probabilidades, também pelo alto valor da função desvio e pelo R^2 ajustado
 
 
